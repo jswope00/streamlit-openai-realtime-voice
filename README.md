@@ -22,7 +22,7 @@ A reference implementation of OpenAI's Realtime API integration with Streamlit, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/openai-realtime-voice-chat-on-streamlit.git
+git clone https://github.com/MatanyaP/streamlit-openai-realtime-voice.git
 cd openai-realtime-voice-chat-on-streamlit
 ```
 
