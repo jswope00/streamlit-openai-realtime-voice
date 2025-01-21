@@ -84,10 +84,8 @@ The JavaScript code is embedded within the Streamlit app using the `components.v
 1. The JavaScript code establishes a WebRTC connection with OpenAI's servers
 2. User's audio is captured using the browser's `getUserMedia` API
 3. Audio is streamed in real-time through WebRTC to OpenAI's Whisper model for transcription
-4. The transcribed text is processed by GPT-4 to generate responses
-5. Responses are converted to speech and streamed back to the user
-6. The chat interface is dynamically updated using JavaScript DOM manipulation
-7. All communication with OpenAI's servers is handled through WebRTC data channels
+4. The chat interface is dynamically updated using JavaScript DOM manipulation
+5. All communication with OpenAI's servers is handled through WebRTC data channels
 
 ## Contributing
 
