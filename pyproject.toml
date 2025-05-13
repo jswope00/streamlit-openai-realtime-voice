@@ -22,3 +22,6 @@ packages = ["."]
 
 [tool.ruff]
 line-length = 100
+
+[tool.poetry]
+package-mode = false
